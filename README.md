@@ -65,8 +65,9 @@ To extract actionable insights on viewer behavior and preferences from a large d
 - Viewer spikes observed at specific durations (~50 hrs, ~650 hrs).
 - Very short and very long courses attract more attention than medium-duration content.
 
-![Image](https://github.com/user-attachments/assets/220f83f1-6411-4436-b122-799ad9acda5f)
 ![Image](https://github.com/user-attachments/assets/7398f3a6-3a54-4d1e-87ba-9a4d9143def8)
+![Image](https://github.com/user-attachments/assets/220f83f1-6411-4436-b122-799ad9acda5f)
+
 
 ---
 
